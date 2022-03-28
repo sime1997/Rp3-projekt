@@ -1,0 +1,9 @@
+Podaci za pristup bazi podataka:
+
+www.phpmyadmin.co
+SERVER: sql11.freemysqlhosting.net
+Name/Username: sql11467717
+Password: MwTbQZS2fV
+
+Baza: sql11467717
+

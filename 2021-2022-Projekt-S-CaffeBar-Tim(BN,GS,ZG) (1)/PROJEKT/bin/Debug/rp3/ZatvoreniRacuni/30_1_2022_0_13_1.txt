@@ -1,0 +1,11 @@
+Broj računa: 1
+Vrijeme: 30.1.2022. 0:00:00
+Konobar: Gabrijela Zlatunic
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Plavac mali 0.7L		160		2		320 kn
+Fanta		15		2		30 kn
+
+Ukupan iznos računa: 350 kn
+
+ Ugodan dan!

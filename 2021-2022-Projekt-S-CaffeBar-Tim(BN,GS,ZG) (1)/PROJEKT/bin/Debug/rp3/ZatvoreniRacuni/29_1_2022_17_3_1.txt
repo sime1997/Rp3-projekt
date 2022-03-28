@@ -1,0 +1,11 @@
+Broj računa: 1
+Vrijeme: 29.1.2022. 0:00:00
+Konobar: Marija Matić
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Espresso		18		1		18 kn
+Fanta		15		2		30 kn
+
+Ukupan iznos računa: 48 kn
+
+ Ugodan dan!

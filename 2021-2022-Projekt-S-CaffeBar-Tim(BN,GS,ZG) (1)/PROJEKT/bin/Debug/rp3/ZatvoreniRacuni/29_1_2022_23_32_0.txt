@@ -1,0 +1,14 @@
+Broj računa: 0
+Vrijeme: 29.1.2022. 0:00:00
+Konobar: Gabrijela Zlatunic
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Fanta		15		1		12 kn
+Espresso		10		2		16 kn
+Kava s mijekom mala		11		2		8,8 kn
+Kava s mlijekom velika		12		2		9,6 kn
+Cijeđeni sok		20		2		16 kn
+
+Ukupan iznos računa: 62,4 kn
+
+ Ugodan dan!

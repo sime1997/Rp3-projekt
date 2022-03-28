@@ -1,0 +1,12 @@
+Broj računa: 1
+Vrijeme: 30.1.2022. 0:00:00
+Konobar: Konobar Konobar
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Sprite		15		1		15 kn
+Schwepper Bitter Lemon		16		1		16 kn
+Plavac mali 0.1L		16		2		32 kn
+
+Ukupan iznos računa: 63 kn
+
+ Ugodan dan!

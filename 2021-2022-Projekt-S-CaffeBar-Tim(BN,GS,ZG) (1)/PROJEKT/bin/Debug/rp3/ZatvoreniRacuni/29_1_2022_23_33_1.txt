@@ -1,0 +1,13 @@
+Broj računa: 1
+Vrijeme: 29.1.2022. 0:00:00
+Konobar: Gabrijela Zlatunic
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Kava s mijekom mala		11		1		8,8 kn
+Kava s mlijekom velika		12		1		9,6 kn
+Espresso		10		1		8 kn
+Cijeđeni sok		20		1		16 kn
+
+Ukupan iznos računa: 42,4 kn
+
+ Ugodan dan!

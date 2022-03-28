@@ -1,0 +1,342 @@
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\bin\Debug\FinaleProjekta.exe.config
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\bin\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\bin\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\bin\Debug\MySql.Data.dll
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\gabrijela\Desktop\Računarski praktikum 3\FinaleProjekta\obj\Debug\FinaleProjekta.Stol2.resources
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\bin\Debug\FinaleProjekta.exe.config
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\bin\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\bin\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.Stol2.resources
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\FinaleProjekta (2)\FinaleProjekta\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\bin\Debug\FinaleProjekta.exe.config
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\bin\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\bin\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.Stol2.resources
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\FinaleProjekta_Nena_promjene\FinaleProjekta\obj\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\bin\Debug\FinaleProjekta.exe.config
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\bin\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\bin\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\bin\Debug\MySql.Data.dll
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\gabrijela\Desktop\FinaleProjekta_Nena_19_11\FinaleProjekta\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\rp3\bin\Debug\FinaleProjekta.exe.config
+C:\Users\Sime\source\repos\rp3\bin\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\rp3\bin\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\Sime\source\repos\rp3\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\bin\Debug\FinaleProjekta.exe.config
+C:\Users\nenab\Downloads\rp3 (1)\rp3\bin\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\rp3 (1)\rp3\bin\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\rp3 (1)\rp3\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe.config
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\Sime\source\repos\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe.config
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe.config
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe.config
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\bin\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.IspisPrometa.resources
+C:\Users\nenab\Downloads\Spojena_sime\Spojena_sime\Spojena\Prva_spojena_verzija\rp3\obj\Debug\FinaleProjekta.HappyHour.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\bin\Debug\FinaleProjekta.exe.config
+C:\Users\gabrijela\Desktop\NENA\rp3\bin\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\NENA\rp3\bin\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\NENA\rp3\bin\Debug\MySql.Data.dll
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.HappyHour.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.IspisPrometa.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\NENA\rp3\obj\Debug\FinaleProjekta.Statistika.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\bin\Debug\FinaleProjekta.exe.config
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\bin\Debug\FinaleProjekta.exe
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\bin\Debug\FinaleProjekta.pdb
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.HappyHour.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.IspisPrometa.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Statistika.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\Sime\source\repos\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\bin\Debug\FinaleProjekta.exe.config
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\bin\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\bin\Debug\FinaleProjekta.pdb
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.HappyHour.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.IspisPrometa.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Statistika.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.exe
+C:\Users\gabrijela\Desktop\PROJEKT (1)\PROJEKT (1)\PROJEKT\obj\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\bin\Debug\FinaleProjekta.exe.config
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\bin\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\bin\Debug\FinaleProjekta.pdb
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.DodajKonobara.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.DodajPice.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.Dostava.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.forma.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.HappyHour.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.IspisPrometa.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.IspisStanja.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.Kafic.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.MakniKonobara.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.MakniPice.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.Prijava.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.Properties.Resources.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.Statistika.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.Stol.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.UserControl1.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.Vlasnik.resources
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CopyComplete
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.exe
+C:\Users\nenab\Downloads\PROJEKT (5)\PROJEKT\obj\Debug\FinaleProjekta.pdb
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\bin\Debug\FinaleProjekta.exe.config
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\bin\Debug\FinaleProjekta.exe
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\bin\Debug\FinaleProjekta.pdb
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.AssemblyReference.cache
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.DodajKonobara.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.DodajPice.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.Dostava.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.forma.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.HappyHour.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.IspisPrometa.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.IspisStanja.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.Kafic.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.MakniKonobara.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.MakniPice.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.PlacanjeRacuna.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.Prijava.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.PromijeniCijenu.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.Properties.Resources.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.Statistika.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.Stol.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.UserControl1.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.Vlasnik.resources
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.GenerateResource.cache
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CoreCompileInputs.cache
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.csproj.CopyComplete
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.exe
+E:\2021-2022-Projekt-S-CaffeBar-Tim(BN,GŠ,ZG) (1)\PROJEKT\obj\Debug\FinaleProjekta.pdb

@@ -1,0 +1,12 @@
+Broj računa: 1
+Vrijeme: 29.1.2022. 0:00:00
+Konobar: Konobar Konobar
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Espresso		10		1		10 kn
+Kava s mijekom mala		11		1		11 kn
+Nesscafe kokos		14		1		14 kn
+
+Ukupan iznos računa: 35 kn
+
+ Ugodan dan!

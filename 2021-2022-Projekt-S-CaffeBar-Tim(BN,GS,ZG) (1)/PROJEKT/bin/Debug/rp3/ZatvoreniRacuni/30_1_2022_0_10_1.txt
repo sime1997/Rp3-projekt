@@ -1,0 +1,10 @@
+Broj računa: 1
+Vrijeme: 30.1.2022. 0:00:00
+Konobar: Gabrijela Zlatunic
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Espresso		10		2		20 kn
+
+Ukupan iznos računa: 20 kn
+
+ Ugodan dan!

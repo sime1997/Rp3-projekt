@@ -1,0 +1,11 @@
+Broj računa: 1
+Vrijeme: 30.1.2022. 0:00:00
+Konobar: Gabrijela Zlatunic
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Sprite		15		1		15 kn
+Plavac mali 0.7L		160		2		320 kn
+
+Ukupan iznos računa: 335 kn
+
+ Ugodan dan!

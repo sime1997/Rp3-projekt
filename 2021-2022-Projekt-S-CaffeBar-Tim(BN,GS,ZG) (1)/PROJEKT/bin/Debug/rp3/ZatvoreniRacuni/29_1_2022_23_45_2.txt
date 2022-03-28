@@ -1,0 +1,10 @@
+Broj računa: 2
+Vrijeme: 29.1.2022. 0:00:00
+Konobar: Konobar Konobar
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Espresso		10		2		20 kn
+
+Ukupan iznos računa: 20 kn
+
+ Ugodan dan!

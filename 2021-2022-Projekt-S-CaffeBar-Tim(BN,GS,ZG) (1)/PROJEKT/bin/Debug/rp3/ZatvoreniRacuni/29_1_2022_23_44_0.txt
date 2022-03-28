@@ -1,0 +1,13 @@
+Broj računa: 0
+Vrijeme: 29.1.2022. 0:00:00
+Konobar: Konobar Konobar
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Espresso		10		3		8 kn
+Kava s mijekom mala		11		2		17,6 kn
+Kava s mlijekom velika		12		3		28,8 kn
+Cijeđeni sok		20		4		48 kn
+
+Ukupan iznos računa: 102,4 kn
+
+ Ugodan dan!

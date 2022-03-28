@@ -1,0 +1,10 @@
+Broj računa: 1
+Vrijeme: 30.1.2022. 0:00:00
+Konobar: Gabrijela Zlatunic
+
+Naziv pića:		Cijena:		Količina:	 Ukupno:
+Karlovačko pivo		20		2		40 kn
+
+Ukupan iznos računa: 40 kn
+
+ Ugodan dan!
